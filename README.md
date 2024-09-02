@@ -70,7 +70,7 @@
 
 - 浏览器的扩展商店安装
     - [Edge应用商店，审核中](https://microsoftedge.microsoft.com/addons?hl=zh-CN)
-    - [Chrome应用商店，审核中](https://chromewebstore.google.com/category/extensions?utm_source=ext_sidebar&hl=zh-CN)
+    - [![Chrome应用商店安装](https://img.shields.io/chrome-web-store/v/mhpepheenccjnngoneacokmhaehbinkb)](https://chromewebstore.google.com/detail/hicc-%E9%AD%94%E6%B3%95%E7%90%83/mhpepheenccjnngoneacokmhaehbinkb)
 
 ## 快速入门：如何插桩
 - 扩展的正常使用，需要在浏览器中编译后的代码已插桩。本节介绍主流javascript框架是如何插桩的。插桩需要开发人员协助，修改构建配置；插桩过程并不修改源代码；
