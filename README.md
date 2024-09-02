@@ -69,7 +69,7 @@
             - 当检测有插桩代码时，是绿色可用状态 ![可用](img/plugin-state2.png)，同时，在浏览器底部显示 魔法球
 
 - 浏览器的扩展商店安装
-    - [Edge应用商店，审核中](https://microsoftedge.microsoft.com/addons?hl=zh-CN)
+    - [Edge应用商店，上架中](https://microsoftedge.microsoft.com/addons?hl=zh-CN)
     - [![Chrome应用商店安装](https://img.shields.io/chrome-web-store/v/mhpepheenccjnngoneacokmhaehbinkb)](https://chromewebstore.google.com/detail/hicc-%E9%AD%94%E6%B3%95%E7%90%83/mhpepheenccjnngoneacokmhaehbinkb)
 
 ## 快速入门：如何插桩
